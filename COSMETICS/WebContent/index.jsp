@@ -6,7 +6,7 @@
 	<title>Home</title>
 </head>
 <body>
-spring 시작
+spring 시작-테스트
 <%
 	response.sendRedirect("main.do");
 %>
